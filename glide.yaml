@@ -1,0 +1,3 @@
+package: mesos-mertrics-to-statsd
+import:
+- package: github.com/quipo/statsd

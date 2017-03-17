@@ -1,0 +1,8 @@
+hash: 0fa0f197e8078ad47dedf3f09220af363eaac43a6b351476948ec2cdac21391b
+updated: 2017-03-17T12:01:10.649498709+01:00
+imports:
+- name: github.com/quipo/statsd
+  version: 39c3fe59a6c334d5aefddf41f3c16595301c80e1
+  subpackages:
+  - event
+testImports: []
